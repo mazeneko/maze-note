@@ -1,6 +1,10 @@
 # maze-note
 まぜねこの個人的なTIPSや雑記です。
 
+## WindowsにSSHで接続するなどしてCUIのテキストエディタがなくて困ったときのやつ
+
+Gitがインストールされていれば`git/usr/bin/`にvimとかnanoとかが入ってる可能性が高いのでそれを使うとよいです。
+
 ## VSCodeでPowerShell使うときに文字コードをUTF-8にしたいときのやつ
 
 `.vscode/settings.json`でこれを設定するとよいです。
